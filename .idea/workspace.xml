@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f07a9db9-457f-41b3-bbf9-b8996c08b7b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/templates/mysite/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/templates/mysite/love.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/templates/mysite/signout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/templates/mysite/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/mysite/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/website/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/website/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/website/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/website/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/website/website/wsgi.py" afterDir="false" />
-    </list>
+    <list default="true" id="f07a9db9-457f-41b3-bbf9-b8996c08b7b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/USER/PycharmProjects/django",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/PycharmProjects/django&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\USER\PycharmProjects\django\website\mysite" />
@@ -109,7 +81,19 @@
       <option name="presentableId" value="Default" />
       <updated>1674932434278</updated>
     </task>
+    <task id="LOCAL-00001" summary="lanre">
+      <created>1681680517771</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681680517771</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lanre" />
+    <option name="LAST_COMMIT_MESSAGE" value="lanre" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
