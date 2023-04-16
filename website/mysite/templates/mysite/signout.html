@@ -1,0 +1,22 @@
+{% extends 'mysite/base.html' %}
+
+{% block content %}
+
+ <h1> sign out</h1>
+
+
+    <form action="/signout/" method=POST>
+        {% csrf_token %}
+       <label for="uname">Username:</label><br>
+       <input type="text" id="uname" name="username" placeholder="Enter Your username"><br>
+       <label for="fname">First Name:</label><br>
+       <input type="text" id="fname" name="fname" value=""><br>
+        <label for="email">Email Address:</label><br>
+        <input type="email" id="email" name="email" placeholder="Enter you email address"><br>
+       <label for="lname">Last Name</label><br>
+       <input type="text" id="lname" name="lname" value=""><br>
+      <button type="Submit">Submit</a></button>
+
+    </form>
+
+{% endblock %}
